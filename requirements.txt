@@ -1,0 +1,51 @@
+==========================================
+Requirements for Bike Sharing Dataset Analysis
+==========================================
+
+Author: Muhammad Agal Lulanika  
+Email: agallulanika1@gmail.com  
+Device ID: MC001D5Y1224  
+
+==========================================
+Required Libraries
+==========================================
+
+The following Python libraries are required to run the Bike Sharing Dataset Analysis:
+
+- **pandas**: Data manipulation and analysis
+- **streamlit**: Building interactive web applications for data analysis
+- **numpy**: Numerical computations
+- **matplotlib**: Data visualization
+- **seaborn**: Statistical data visualization
+- **tabulate**: Displaying tabular data in a readable format
+- **IPython**: Interactive computing support
+- **openpyxl**: Handling Excel files
+- **scikit-learn**: Machine learning and data preprocessing
+
+==========================================
+Installation
+==========================================
+
+To install all required libraries, run the following command in your terminal:
+
+pip install -r requirements.txt
+
+Alternatively, you can install them individually:
+
+pip install pandas streamlit numpy matplotlib seaborn tabulate IPython openpyxl scikit-learn
+
+
+==========================================
+License
+==========================================
+
+This project is open-source and can be used for research and development purposes.  
+If you use this dataset in publications, please ensure proper citation.  
+
+==========================================
+Contact
+==========================================
+
+For further information, please contact:  
+Muhammad Agal Lulanika  
+Email: agallulanika1@gmail.com  
