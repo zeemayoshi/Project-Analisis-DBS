@@ -13,8 +13,8 @@ def load_data(path: str):
     return data
 
 # Membaca kedua file Excel
-df_day = load_data("./day.xlsx")
-df_hour = load_data("./hour.xlsx")
+df_day = load_data("/mount/src/project-analisis-dbs/data/day.xlsx")
+df_hour = load_data("/mount/src/project-analisis-dbs/data/hour.xlsx")
 
 # Menambahkan Analisis RFM
 st.header("RFM Analysis")
